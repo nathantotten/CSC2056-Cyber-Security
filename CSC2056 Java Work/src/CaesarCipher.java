@@ -1,5 +1,5 @@
 
-public class CaesaeCipher {
+public class CaesarCipher {
     String cipher(String msg, int shift) {
         String s = "";
         int len = msg.length();
